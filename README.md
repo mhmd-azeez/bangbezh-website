@@ -1,5 +1,5 @@
 ## Bangbezh
-Bangbezh is an athan app for Kurdistan. Bangbezh project is suspended and currently **not** under active development. Download the last version **[here](https://github.com/encrypt0r/bangbezh-website/releases/download/v3.1/Bangbezh_Installer_3.1.exe)**
+Bangbezh is an athan app for Kurdistan. Bangbezh project is suspended and currently is **not** under active development. Download the last version **[here](https://github.com/encrypt0r/bangbezh-website/releases/download/v3.1/Bangbezh_Installer_3.1.exe)**
 
 ### Main Features:
 + Prayer times for 13 Kurdistan cities
